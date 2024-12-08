@@ -1,0 +1,30 @@
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\bin\Debug\Calendr.exe.config
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\bin\Debug\Calendr.exe
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\bin\Debug\Calendr.pdb
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.csproj.AssemblyReference.cache
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.Form1.resources
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.Properties.Resources.resources
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.UserControl1.resources
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.UserControlDays.resources
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.csproj.GenerateResource.cache
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.csproj.CoreCompileInputs.cache
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.exe
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.pdb
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.EventForm.resources
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\bin\Debug\Database.mdb
+D:\ПО\Calendr\bin\Debug\Database.mdb
+D:\ПО\Calendr\bin\Debug\Calendr.exe.config
+D:\ПО\Calendr\bin\Debug\Calendr.exe
+D:\ПО\Calendr\bin\Debug\Calendr.pdb
+D:\ПО\Calendr\obj\Debug\Calendr.csproj.AssemblyReference.cache
+D:\ПО\Calendr\obj\Debug\Calendr.EventForm.resources
+D:\ПО\Calendr\obj\Debug\Calendr.Form1.resources
+D:\ПО\Calendr\obj\Debug\Calendr.Properties.Resources.resources
+D:\ПО\Calendr\obj\Debug\Calendr.UserControl1.resources
+D:\ПО\Calendr\obj\Debug\Calendr.UserControlDays.resources
+D:\ПО\Calendr\obj\Debug\Calendr.csproj.GenerateResource.cache
+D:\ПО\Calendr\obj\Debug\Calendr.csproj.CoreCompileInputs.cache
+D:\ПО\Calendr\obj\Debug\Calendr.exe
+D:\ПО\Calendr\obj\Debug\Calendr.pdb
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.Event.resources
+C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.AddEvent.resources
