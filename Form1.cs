@@ -51,6 +51,7 @@ namespace Calendr
                 UserControlDays ucdays = new UserControlDays();
                 ucdays.days(i);
                 ucdays.displayEvent(i);
+                ucdays.today(i);
                 daycontainer.Controls.Add(ucdays);
             }
         }
@@ -85,6 +86,7 @@ namespace Calendr
                 UserControlDays ucdays = new UserControlDays();
                 ucdays.days(i);
                 ucdays.displayEvent(i);
+                ucdays.today(i);
                 daycontainer.Controls.Add(ucdays);
             }
         }
@@ -130,6 +132,7 @@ namespace Calendr
                 UserControlDays ucdays = new UserControlDays();
                 ucdays.days(i);
                 ucdays.displayEvent(i);
+                ucdays.today(i);
                 daycontainer.Controls.Add(ucdays);
             }
         }

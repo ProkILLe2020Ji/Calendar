@@ -16,6 +16,7 @@ namespace Calendr
     {
         public static string connString = "Provider = Microsoft.Jet.OLEDB.4.0;Data Source = 'Database.mdb'";
         public static string static_day;
+        
         public UserControlDays()
         {
             InitializeComponent();
@@ -44,6 +45,18 @@ namespace Calendr
                 cmd.Dispose();
                 conn.Close();
                 
+            }
+        }
+        public void today(int numday)
+        {
+            DateTime now = DateTime.Now;
+            int day = now.Day;
+            int month = now.Month;
+            int year = now.Year;
+            string today = day + "." + month + "." + year;
+            if (numday + "." + Form1.static_month + "." + Form1.static_year == today)
+            {
+                this.BackColor = Color.Aqua;
             }
         }
 

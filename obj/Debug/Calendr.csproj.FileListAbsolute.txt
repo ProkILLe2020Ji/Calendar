@@ -28,3 +28,19 @@ D:\ПО\Calendr\obj\Debug\Calendr.exe
 D:\ПО\Calendr\obj\Debug\Calendr.pdb
 C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.Event.resources
 C:\Стасик\Доклады, проекты и файлы\3 курс\ПО\Calendr\obj\Debug\Calendr.AddEvent.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\bin\Debug\Database.mdb
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\bin\Debug\Calendr.exe.config
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\bin\Debug\Calendr.exe
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\bin\Debug\Calendr.pdb
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.csproj.AssemblyReference.cache
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.AddEvent.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.Event.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.EventForm.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.Form1.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.Properties.Resources.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.UserControl1.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.UserControlDays.resources
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.csproj.GenerateResource.cache
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.csproj.CoreCompileInputs.cache
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.exe
+C:\Стасик\Доклады_проекты_файлы\3_курс\ПО\Calendr\obj\Debug\Calendr.pdb
